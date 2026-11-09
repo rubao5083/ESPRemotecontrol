@@ -1,0 +1,6 @@
+{
+    "name": "imu_mpu6050",
+    "version": "1.0.0",
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+}

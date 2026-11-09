@@ -1,0 +1,7 @@
+{
+    "name": "battery_ina219",
+    "version": "1.0.0",
+    "dependencies": {
+        "i2c": "*"
+    }
+}

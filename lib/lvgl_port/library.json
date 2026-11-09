@@ -1,0 +1,7 @@
+{
+    "name": "lvgl_port",
+    "version": "1.0.0",
+    "dependencies": {
+        "lvgl": "^8.4.0"
+    }
+}

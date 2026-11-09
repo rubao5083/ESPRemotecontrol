@@ -1,0 +1,7 @@
+{
+    "name": "rgb_lcd_port",
+    "version": "1.0.0",
+    "dependencies": {
+        "lvgl_port": "*"
+    }
+}

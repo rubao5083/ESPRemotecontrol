@@ -1,0 +1,7 @@
+{
+    "name": "imu_qmi8658",
+    "version": "1.0.0",
+    "dependencies": {
+        "i2c": "*"
+    }
+}
